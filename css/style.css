@@ -1,0 +1,24 @@
+h1, .h1 {
+  font-size: 2.5rem;
+}
+
+h1,
+.font-weight-bolder {
+  font-weight: 900 !important;
+}
+
+.text-stroke-header {
+  -webkit-text-stroke: 3px #ffffff;
+  color: transparent;
+}
+
+.progress {
+  border-radius: 1.25rem !important;
+}
+
+.progress .progress-bar {
+  width: 0px;
+  border-radius: 10px;
+  transition: 2s;
+}
+
